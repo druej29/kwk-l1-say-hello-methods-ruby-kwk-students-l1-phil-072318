@@ -3,4 +3,4 @@
 def say_hello(your_name, my_name)
   puts "Hello #{your_name}. I'm #{my_name}"
 end
-("Karen", "Drue")
+say_hello("Karen", "Drue")
